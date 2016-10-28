@@ -1,0 +1,23 @@
+.intro, .heading, #search-term {
+	background-color: #388E3C;
+	margin: -5px;
+	text-align: center;
+}
+
+body {
+	background-color: #B0BEC5;
+}
+
+h1, #search-term {
+	text-align: : center;
+}
+
+.heading {
+	width: 1920px;
+	padding-left: -20px;
+	color: white;
+}
+
+input#query, #submit-button {
+	border-radius: 20px;
+}
